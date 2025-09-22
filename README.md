@@ -27,3 +27,14 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 ### Q. Why is Digital Marketing important?
 **👉 It helps businesses reach a wider audience, track performance in real-time, and achieve better ROI compared to traditional marketing.**
 
+---
+
+## 🔹 Basic Interview Questions
+
+### Q. Difference between Digital Marketing and Traditional Marketing?
+
+- Traditional = TV, radio, print, billboards.
+- Digital = SEO, PPC, Social Media, Email, Content.
+- Digital is more targeted, measurable, and cost-effective.
+
+
