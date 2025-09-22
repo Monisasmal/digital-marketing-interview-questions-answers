@@ -3,7 +3,9 @@
 ## 📘 Digital Marketing Interview Questions & Answers (2025)
 
 Welcome to the Digital Marketing Interview Preparation Repository 🎯
+
 This repo contains a complete set of Digital Marketing Interview Questions and Answers covering SEO, SEM, Social Media Marketing, PPC, Content Marketing, Email Marketing, and Analytics.
+
 👉 Whether you are a beginner or an experienced professional, this collection will help you crack interviews and refresh your concepts.
 
 ---
@@ -14,3 +16,14 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 - Intermediate Interview Questions
 - Advanced / Strategy Interview Questions
 - Behavioral & HR Questions
+
+---
+
+## 🌐 Introduction to Digital Marketing
+
+### Q. What is Digital Marketing?
+**👉 Digital Marketing is the promotion of products or services through online channels like search engines, websites, social media, email, and mobile apps.**
+
+### Q. Why is Digital Marketing important?
+**👉 It helps businesses reach a wider audience, track performance in real-time, and achieve better ROI compared to traditional marketing.**
+
