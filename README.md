@@ -57,4 +57,14 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 - On-page = Inside website (keywords, meta tags, internal links).
 - Off-page = Outside website (backlinks, social signals).
 
+### Q. What is PPC?
+
+👉 Paid ads where advertisers pay when someone clicks. Example: Google Ads.  
+
+### Q. Difference between Organic vs Paid results?
+
+- Organic = Free (SEO).
+- Paid = Sponsored ads (PPC).  
+
+
 
