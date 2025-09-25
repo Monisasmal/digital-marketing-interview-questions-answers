@@ -37,4 +37,19 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 - Digital = SEO, PPC, Social Media, Email, Content.
 - Digital is more targeted, measurable, and cost-effective.
 
+### Q. What are the types of Digital Marketing?
+
+- SEO (Search Engine Optimization)
+- SEM/PPC (Search Engine Marketing)
+- Social Media Marketing
+- Content Marketing
+- Email Marketing
+- Affiliate Marketing
+- Influencer Marketing
+- Mobile Marketing
+
+### Q. What is SEO?
+
+👉 Optimizing a website to rank higher in search engines and drive **organic traffic**. 
+
 
