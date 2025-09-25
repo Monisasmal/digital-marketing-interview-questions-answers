@@ -50,6 +50,11 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 ### Q. What is SEO?
 
-👉 Optimizing a website to rank higher in search engines and drive **organic traffic**. 
+👉 Optimizing a website to rank higher in search engines and drive **organic traffic**.
+
+### Q. Difference between On-page SEO & Off-page SEO?
+
+- On-page = Inside website (keywords, meta tags, internal links).
+- Off-page = Outside website (backlinks, social signals).
 
 
