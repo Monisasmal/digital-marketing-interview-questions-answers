@@ -79,6 +79,15 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 👉 % of visitors completing an action (buy, sign up).  
 **Formula = (Conversions ÷ Visitors) × 100.**
 
+## 🔹 Intermediate Questions   
+
+### Q11. How do you increase website traffic?
+
+👉 SEO, blogs, social media, PPC ads, influencer marketing, backlinks. 
+
+### Q12. What is CTR?
+
+👉 Click-Through Rate = (Clicks ÷ Impressions) × 100. 
 
 
 
