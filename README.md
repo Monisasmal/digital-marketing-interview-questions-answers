@@ -89,6 +89,11 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Click-Through Rate = (Clicks ÷ Impressions) × 100. 
 
+### Q13. Bounce Rate vs Exit Rate?
+
+- Bounce = User leaves after 1 page.  
+- Exit = User leaves from a specific page (after visiting others).  
+
 
 
 
