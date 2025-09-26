@@ -92,7 +92,15 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 ### Q13. Bounce Rate vs Exit Rate?
 
 - Bounce = User leaves after 1 page.  
-- Exit = User leaves from a specific page (after visiting others).  
+- Exit = User leaves from a specific page (after visiting others).
+
+### Q14. What is Remarketing? 
+
+👉 Showing ads to users who already visited but didn’t convert.  
+
+### Q15. What is Google Ads?
+
+👉 Google’s platform for Search, Display, Shopping, and YouTube ads.
 
 
 
