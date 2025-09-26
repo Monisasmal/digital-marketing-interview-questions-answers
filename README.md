@@ -64,7 +64,22 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 ### Q. Difference between Organic vs Paid results?
 
 - Organic = Free (SEO).
-- Paid = Sponsored ads (PPC).  
+- Paid = Sponsored ads (PPC).
+
+### Q. What are Keywords? 
+
+👉 Search terms typed on Google. Example: **best smartphones under 20k**. 
+
+### Q. What are Backlinks?
+
+👉 Links from other sites pointing to yours. Improve domain authority & ranking. 
+
+### Q10. What is Conversion Rate?
+
+👉 % of visitors completing an action (buy, sign up).  
+**Formula = (Conversions ÷ Visitors) × 100.**
+
+
 
 
 
