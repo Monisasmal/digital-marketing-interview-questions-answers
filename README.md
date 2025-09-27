@@ -110,6 +110,18 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Creating blogs, videos, infographics to provide value & attract customers. 
 
+### Q18. What is Social Media Marketing?
+
+👉 Promoting brand via Facebook, Instagram, LinkedIn, Twitter (X).
+
+### Q19. What is Email Marketing?
+
+👉 Sending promotional or transactional emails. Tools: Mailchimp, SendGrid. 
+
+### Q20. What are common Digital Marketing tools?
+
+👉 Google Analytics, Google Ads, SEMrush, Ahrefs, Canva, Buffer, HubSpot.  
+
 
 
 
