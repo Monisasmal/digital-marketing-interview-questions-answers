@@ -102,6 +102,14 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Google’s platform for Search, Display, Shopping, and YouTube ads.
 
+### Q16. What is Quality Score in Google Ads?
+
+👉 Rating (1–10) based on CTR, ad relevance, and landing page experience. 
+
+### Q17. What is Content Marketing?
+
+👉 Creating blogs, videos, infographics to provide value & attract customers. 
+
 
 
 
