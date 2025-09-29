@@ -122,6 +122,13 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Google Analytics, Google Ads, SEMrush, Ahrefs, Canva, Buffer, HubSpot.  
 
+## 🔹 Advanced / Strategy Questions  
+
+### Q21. How do you measure campaign success?
+
+👉 KPIs: CTR, Conversion Rate, ROI, Engagement, CAC.  
+
+
 
 
 
