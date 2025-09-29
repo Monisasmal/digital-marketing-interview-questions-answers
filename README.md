@@ -126,7 +126,13 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 ### Q21. How do you measure campaign success?
 
-👉 KPIs: CTR, Conversion Rate, ROI, Engagement, CAC.  
+👉 KPIs: CTR, Conversion Rate, ROI, Engagement, CAC.
+
+### Q22. How do you optimize a landing page?
+
+👉 Clear CTA, fast loading, mobile-friendly, testimonials, A/B testing.  
+
+
 
 
 
