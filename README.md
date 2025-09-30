@@ -134,7 +134,17 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 ### Q23. What is A/B Testing?
 
-👉 Testing 2 versions of a page/ad/email to see which performs better.  
+👉 Testing 2 versions of a page/ad/email to see which performs better.
+
+### Q24. SEO vs PPC – When to use?
+
+- SEO = Long-term, free traffic.  
+- PPC = Quick results, paid traffic.  
+👉 Best to use a **mix of both**.
+
+### Q25. Latest trends in Digital Marketing?
+
+👉 AI in ads, voice search, influencer marketing, personalization, chatbots. 
 
 
 
