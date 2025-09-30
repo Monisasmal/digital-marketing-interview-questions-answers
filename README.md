@@ -132,6 +132,11 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Clear CTA, fast loading, mobile-friendly, testimonials, A/B testing.  
 
+### Q23. What is A/B Testing?
+
+👉 Testing 2 versions of a page/ad/email to see which performs better.  
+
+
 
 
 
