@@ -146,6 +146,18 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 AI in ads, voice search, influencer marketing, personalization, chatbots. 
 
+### Q26. How do you handle negative comments on social media?
+
+👉 Stay polite, address the issue, move conversation offline if needed.  
+
+### Q27. KPIs for e-commerce site?
+
+👉 Conversion Rate, Average Order Value, Cart Abandonment, CLV, ROAS. 
+
+### Q28. What is Customer Journey?
+
+👉 Steps: Awareness → Consideration → Conversion → Retention.
+
 
 
 
