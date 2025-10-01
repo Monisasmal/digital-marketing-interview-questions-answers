@@ -11,10 +11,10 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 ---
 
 ## 📂 Table of Contents
-- Introduction to Digital Marketing
+
 1. [Basic Questions](#-basic-questions)  
-- Intermediate Interview Questions
-- Advanced / Strategy Interview Questions
+2. [Intermediate Questions](#-intermediate-questions)  
+3. [Advanced / Strategy Questions](#-advanced--strategy-questions) 
 - Behavioral & HR Questions
 
 ---
@@ -79,7 +79,7 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 👉 % of visitors completing an action (buy, sign up).  
 **Formula = (Conversions ÷ Visitors) × 100.**
 
-## 🔹 Intermediate Questions   
+## 🔹 Intermediate Questions 
 
 ### Q11. How do you increase website traffic?
 
@@ -122,7 +122,7 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Google Analytics, Google Ads, SEMrush, Ahrefs, Canva, Buffer, HubSpot.  
 
-## 🔹 Advanced / Strategy Questions  
+## 🔹 Advanced / Strategy Questions 
 
 ### Q21. How do you measure campaign success?
 
