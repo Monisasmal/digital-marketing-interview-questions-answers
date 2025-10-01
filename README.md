@@ -12,7 +12,7 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 ## 📂 Table of Contents
 - Introduction to Digital Marketing
-- Basic Interview Questions
+1. [Basic Questions](#-basic-questions)  
 - Intermediate Interview Questions
 - Advanced / Strategy Interview Questions
 - Behavioral & HR Questions
@@ -29,7 +29,7 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 ---
 
-## 🔹 Basic Interview Questions
+## 🔹 Basic Questions
 
 ### Q. Difference between Digital Marketing and Traditional Marketing?
 
