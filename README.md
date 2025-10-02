@@ -158,6 +158,11 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Steps: Awareness → Consideration → Conversion → Retention.
 
+### Q29. Inbound vs Outbound Marketing?
+
+- Inbound = Attract (blogs, SEO).  
+- Outbound = Push (ads, cold emails).
+
 
 
 
