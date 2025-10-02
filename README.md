@@ -163,6 +163,10 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 - Inbound = Attract (blogs, SEO).  
 - Outbound = Push (ads, cold emails).
 
+### Q30. What is Marketing Automation?
+
+👉 Automating repetitive tasks (email, lead nurturing) using HubSpot, Mailchimp, Marketo.  
+
 
 
 
