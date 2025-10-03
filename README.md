@@ -15,7 +15,7 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 1. [Basic Questions](#-basic-questions)  
 2. [Intermediate Questions](#-intermediate-questions)  
 3. [Advanced / Strategy Questions](#-advanced--strategy-questions) 
-- Behavioral & HR Questions
+4. [Behavioral / HR Questions](#-behavioral--hr-questions)
 
 ---
 
