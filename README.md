@@ -173,6 +173,14 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Passion for online branding, measurable growth, booming industry.  
 
+### Q32. How do you stay updated with trends?
+
+👉 Blogs (Neil Patel, Moz), Google updates, LinkedIn, webinars.  
+
+### Q34. How do you manage multiple campaigns under deadlines?
+
+👉 Prioritize, use project management tools, monitor KPIs regularly.
+
 
 
 
