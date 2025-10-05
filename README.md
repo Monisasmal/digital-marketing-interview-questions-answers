@@ -79,6 +79,8 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 👉 % of visitors completing an action (buy, sign up).  
 **Formula = (Conversions ÷ Visitors) × 100.**
 
+---
+
 ## 🔹 Intermediate Questions 
 
 ### Q11. How do you increase website traffic?
@@ -121,6 +123,8 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 ### Q20. What are common Digital Marketing tools?
 
 👉 Google Analytics, Google Ads, SEMrush, Ahrefs, Canva, Buffer, HubSpot.  
+
+---
 
 ## 🔹 Advanced / Strategy Questions 
 
