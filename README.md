@@ -171,6 +171,8 @@ This repo contains a complete set of Digital Marketing Interview Questions and A
 
 👉 Automating repetitive tasks (email, lead nurturing) using HubSpot, Mailchimp, Marketo.  
 
+---
+
 ## 🔹 Behavioral / HR Questions 
 
 ### Q31. Why Digital Marketing as a career?
